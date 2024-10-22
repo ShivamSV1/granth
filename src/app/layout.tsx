@@ -10,7 +10,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Blogs`,
+  title: `Granth`,
   description: `A site to read it all Ancient, Technical and Entertainment.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
