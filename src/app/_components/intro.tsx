@@ -8,6 +8,7 @@ export function Intro() {
   return (
     <section className="flex-col flex items-start mt-16 mb-16 md:mb-12">
       <div className="flex justify-between w-full">
+        
         <nav className="flex space-x-6">
           <Link href="/" className="hover:underline">Home</Link>
           <Link href="/work-in-progress" className="hover:underline">Science</Link>

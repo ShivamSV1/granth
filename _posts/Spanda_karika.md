@@ -1,13 +1,13 @@
 ---
 title: "Overview of Spanda Karika"
 excerpt: "The Spandakarikas are a number of verses that serve as a sort of commentary on the Siva-sutras. According to Saivagama, the divine consciousness is not simply cold, inert intellection. It is rather spanda, active, dynamic, throbbing with life, creative pulsation.Here pulsation suggests a rythmic vibration."
-coverImage: "/assets/blog/Spanda-karika/cover.jpg"
+coverImage: "${basePath}/assets/blog/Spanda-karika/cover.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Shivam
-  picture: "/assets/blog/authors/shivam.png"
+  picture: "${basePath}/assets/blog/authors/shivam.png"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/granth/assets/blog/preview/cover.jpg"
 ---
 
 I'm writing this blog based on what I've understood so far about the Spanda Karika, while being in touch with people who follow its teachings. I'm continuously learning and gathering more insights, which I aim to share through this series of blogs.
