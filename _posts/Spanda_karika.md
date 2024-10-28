@@ -7,7 +7,7 @@ author:
   name: Shivam
   picture: "${basePath}/assets/blog/authors/shivam.png"
 ogImage:
-  url: "/granth/assets/blog/preview/cover.jpg"
+  url: "{basePath}/assets/blog/preview/cover.jpg"
 ---
 
 I'm writing this blog based on what I've understood so far about the Spanda Karika, while being in touch with people who follow its teachings. I'm continuously learning and gathering more insights, which I aim to share through this series of blogs.
